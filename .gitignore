@@ -1,0 +1,8 @@
+NB/VoxCeleb_gender/VoxCeleb_gender/females/*.m4a
+NB/VoxCeleb_gender/VoxCeleb_gender/females/*.wav
+NB/VoxCeleb_gender/VoxCeleb_gender/males/*.m4a
+*.wav 
+*.m4a
+*.DS_Store
+NB/output.wav
+NB/nb.ipynb
