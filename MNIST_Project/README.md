@@ -1,22 +1,21 @@
 # 📝 Supervised Learning Assignment Checklist – MNIST CNN (Spring 2025)
 
 ## 👥 Team Members
-- [ ] Member 1: Name (ID)
-- [ ] Member 2: Name (ID)
-- [ ] Member 3: Name (ID)
-- [ ] Member 4: Name (ID)
-- [ ] Member 5: Name (ID)
+- Member 1: Ammar Mohamed Mahmoud Hamed (20220216)
+- Member 2: Ahmed Abdelaziz (20220025)
+- Member 3: Marwan Osama (2022)
+- Member 4: Rana Helal (2022)
 
 ---
 
+
 ## 📆 Day 1 – May 7: Setup & Baseline Models
-- [ ] Assign team roles (coding, report writing, testing, etc.)
-- [ ] Set up shared Google Colab notebook
-- [ ] Load MNIST dataset (shape 28x28)
-- [ ] Shuffle dataset
-- [ ] Implement basic ANN
-- [ ] Implement SVM
-- [ ] Document accuracy, layers, params, train/test time for both
+- [✅] Set up shared Google Colab notebook
+- [✅] Load MNIST dataset (shape 28x28)
+- [✅] Shuffle dataset
+- [✅] Implement basic ANN
+- [✅] Implement SVM
+- [✅] Document accuracy, layers, params, train/test time for both
 
 ---
 
