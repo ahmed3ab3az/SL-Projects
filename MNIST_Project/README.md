@@ -1,10 +1,10 @@
 # 📝 Supervised Learning Assignment Checklist – MNIST CNN (Spring 2025)
 
 ## 👥 Team Members
-- Member 1: Ammar Mohamed Mahmoud Hamed (20220216)
+- Member 1: Ammar Mohamed   (20220216)
 - Member 2: Ahmed Abdelaziz (20220025)
-- Member 3: Marwan Osama (2022)
-- Member 4: Rana Helal (2022)
+- Member 3: Marwan Osama    (20220324)
+- Member 4: Rana Helal      (20220131)
 
 ---
 
